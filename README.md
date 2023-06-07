@@ -1,7 +1,7 @@
 # AMENWRECK
 Amen Breaks Random Generator for Arduino Nano 
 
-Make using the Mozzi Library: https://sensorium.github.io/Mozzi/
+Done with the Mozzi Library: https://sensorium.github.io/Mozzi/
 
 Modifiying the "Samples_Tables_Arrays" example and replacing the audio samples with the amenbreak copped and compatibles with Mozzi 
 
@@ -13,7 +13,7 @@ Method to create the audio samples is described on the Mozzi library api: https:
 Exporting the audio to signed 8-bit in raw to later on convert using char2mozzi.py in a wavetable.
 Ensure you have python installed with all the options selected to work in comand prompt enviroment.
 
-Attention! The converted chopped amenbreaks (amenbeat1.h and friends) must be storaged on the generic sample folder inside mozzi library folder to work properly
+Attention! The converted chopped amenbreaks (amenbeat1.h and friends) must be stored on the generic sample folder inside the mozzi library folder to work properly
 
 More details, info and videos: https://www.youtube.com/@audiowanderer
 
